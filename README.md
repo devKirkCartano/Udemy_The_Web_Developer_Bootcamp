@@ -6,3 +6,5 @@
 ### 12 / 31 / 22
 * Section 1: Course Orientation
 * Section 2: An Introduction to Web Development
+### 01 / 01 / 23
+* Section 3: HTML: The Essentials

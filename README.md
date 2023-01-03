@@ -8,3 +8,5 @@
 * Section 2: An Introduction to Web Development
 ### 01 / 01 / 23
 * Section 3: HTML: The Essentials
+### 01 / 03/ 23 
+* Section 4: HTML: Next Steps & Semantics 

@@ -11,4 +11,4 @@
 ### 01 / 03 / 23 
 * Section 4: HTML: Next Steps & Semantics 
 ### 01 / 13 / 23
-* Section 5: HTML: Forms & Tables
+* Section 5: HTML: Forms & Tables 

@@ -12,3 +12,5 @@
 * Section 4: HTML: Next Steps & Semantics 
 ### 01 / 13 / 23
 * Section 5: HTML: Forms & Tables 
+### 01 / 16 / 23
+* Section 6: CSS: The Very Basics

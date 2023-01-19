@@ -1,0 +1,37 @@
+/* DO NOT TOUCH THIS FILE!!!  */
+.square {
+  width: 100px;
+  height: 100px;
+  box-sizing: border-box;
+  border: 1px solid black;
+}
+/* DO NOT TOUCH THIS FILE!!!  */
+/* THIS CODE WILL MAKE SENSE ONCE WE COVER FLEXBOX!  */
+#board {
+  display: flex;
+  margin: 0 auto;
+  width: 500px;
+  flex-wrap: wrap;
+}
+/* DO NOT TOUCH THIS FILE!!!  */
+
+h1 {
+  text-align: center;
+}
+
+.square:nth-of-type(odd) {
+  background-color: red;
+}
+
+.square:nth-of-type(even) {
+  background-color: black;
+
+}
+
+.square:nth-of-type(odd):hover{
+  background-color: magenta;
+}
+
+.square:nth-of-type(even):hover{
+  background-color: blue;
+}

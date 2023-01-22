@@ -24,3 +24,7 @@ The repository contains my learning journey of the Web Development Bootcamp cour
 ### 01 / 16 / 23
 
 - Section 6: CSS: The Very Basics
+
+### 01 / 22 / 23
+
+- Section 7: The World of CSS Selectors

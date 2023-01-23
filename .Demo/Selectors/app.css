@@ -1,0 +1,98 @@
+/* Universal selector */
+/* * {
+  background-color: cyan;
+} */
+
+body {
+  background-color: white;
+}
+/* Element selector */
+button {
+  font-size: 30px;
+  background-color: #c0a68d;
+}
+
+/* Selector list */
+h1, h2 {
+  color: #b08968;
+}
+
+#signup {
+  background-color: #432818;
+  color: #ede0d4;
+}
+
+span {
+  color: #ddb892;
+}
+
+.post a {
+  color: #ddb892;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.tag {
+  background-color: #c0a68d;
+  color: white;
+  font-size: 16px;
+}
+
+/* Descendant selector */
+footer a {
+  color: #432818;
+}
+
+/* Adjacent selector */
+h2 + button {
+  font-size: 20px;
+}
+
+/* Direct descendant */
+footer > a {
+  color: #ddb892;
+}
+
+/* Attribute selector */
+input[type="password"] {
+  color: #432818;
+}
+
+/* section.post {
+  background-color: purple;
+} */
+
+/* Pseudo class selector */
+button:hover {
+  background-color: #c38e70;
+  color: white;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.post button:active {
+  background-color: #9d6b53;
+}
+
+p {
+  text-align: justify;
+}
+
+h2::first-letter {
+  font-size: 40px;
+}
+
+p::first-line {
+  color: #432818;
+}
+
+::selection{
+  background-color: #9d6b53;
+  color: white;
+} 
+
+h2::selection{
+  background-color: #9d6b53;
+}

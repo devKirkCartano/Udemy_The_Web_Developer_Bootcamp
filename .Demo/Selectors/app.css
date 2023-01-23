@@ -17,6 +17,7 @@ h1, h2 {
   color: #b08968;
 }
 
+/* ID selector */
 #signup {
   background-color: #432818;
   color: #ede0d4;
@@ -32,6 +33,7 @@ span {
   text-decoration: none;
 }
 
+/* Class Selector */
 .tag {
   background-color: #c0a68d;
   color: white;
@@ -80,6 +82,7 @@ p {
   text-align: justify;
 }
 
+/* Pseudo elements selector */
 h2::first-letter {
   font-size: 40px;
 }

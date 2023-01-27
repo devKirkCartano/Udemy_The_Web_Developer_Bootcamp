@@ -28,3 +28,6 @@ The repository contains my learning journey of the Web Development Bootcamp cour
 ### 01 / 22 / 23
 
 - Section 7: The World of CSS Selectors
+
+### 01 / 25 / 23
+- Section 8: The CSS Box Model

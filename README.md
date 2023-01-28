@@ -31,3 +31,6 @@ The repository contains my learning journey of the Web Development Bootcamp cour
 
 ### 01 / 25 / 23
 - Section 8: The CSS Box Model
+
+### 01 / 28 / 23
+- Section 9: Other Assorted Useful CSS Properties

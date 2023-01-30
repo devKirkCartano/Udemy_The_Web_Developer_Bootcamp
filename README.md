@@ -34,3 +34,7 @@ The repository contains my learning journey of the Web Development Bootcamp cour
 
 ### 01 / 28 / 23
 - Section 9: Other Assorted Useful CSS Properties
+
+## 01 / 30 /23 
+- Section 10: Responsive CSS & Flexbox
+- Section 11: Pricing Panel Project
